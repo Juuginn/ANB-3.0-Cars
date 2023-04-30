@@ -1,0 +1,18 @@
+Vehicle Name - Tesla Prior
+
+Poly Count - 457,956 
+
+SFX File - 
+
+In City Cost - 
+
+File Name - teslapd
+
+Type - VC_SEDAN
+
+Vehicle Class - A
+
+Raw File Link - https://www.gta5-mods.com/vehicles/tesla-prior-design-add_on-replace
+-----------------------------------------------------------------------------------------------------------
+**Update**
+- 12/24/22 - Raw file prep [ready to inject]
