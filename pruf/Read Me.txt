@@ -1,0 +1,18 @@
+Vehicle Name - 
+
+Poly Count -
+
+SFX File - 
+
+In City Cost - 
+
+File Name -
+
+Type -
+
+Vehicle Class -
+
+Raw File Link - 
+-----------------------------------------------------------------------------------------------------------
+**Update**
+- 12/21/22 - Raw file prep [ready to inject]
