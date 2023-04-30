@@ -1,0 +1,18 @@
+Vehicle Name - Mitsubishi Evolution IX Voltex
+
+Poly Count - 274,920 
+
+SFX File - 
+
+In City Cost - 
+
+File Name - topfoil
+
+Type - VC_SPORT
+
+Vehicle Class - B+
+
+Raw File Link - https://gta5mod.net/gta-5-mods/vehicles/cars/mitsubishi-evolution-ix-voltex-add-on-fivem-extras-template-v1-1/
+-----------------------------------------------------------------------------------------------------------
+**Update**
+- 12/24/22 - Raw file prep [ready to inject]
